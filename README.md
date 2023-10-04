@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">A passionate ICT student from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartczech&label=Profile%20views&color=0e75b6&style=flat" alt="bartczech" /> </p>
 
 - 🌱 Passionate about **Web development and blockchain (amidst a ton of other things)**
 - 📫 How to reach me: **barteqczech@gmail.com**
