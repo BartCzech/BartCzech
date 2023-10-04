@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartczech&label=Profile%20views&color=0e75b6&style=flat" alt="bartczech" /> </p>
 
 - 🌱 Passionate about **Web development and blockchain (amidst a ton of other things)**
-
 - 📫 How to reach me: **barteqczech@gmail.com**
+- 👨‍💻 Kinda a nerd, kinda a polyglot
+- ⚡ MMA and gym enjoyer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
