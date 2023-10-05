@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ICT student from Poland</h3>
 
 
-- 🌱 Passionate about **Web development and blockchain (amidst a ton of other things)**
+- 🌱 Keen **Web development, blockchain, networks... (amidst a ton of other things)**
 - 📫 How to reach me: **barteqczech@gmail.com**
 - 👨‍💻 Kinda a nerd, kinda a polyglot
 - ⚡ MMA and gym enjoyer
