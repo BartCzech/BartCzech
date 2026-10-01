@@ -1,6 +1,6 @@
 # Hi, I'm Bart 👋
 
-**AI Software Engineer** building and securing AI agents · Poland 🇵🇱
+**AI Software Engineer** building and securing AI systems · Poland 🇵🇱
 
 I build production AI systems in Python (LLM agents, RAG and the Model Context Protocol) with a focus on making agents secure against prompt injection *by design*, not by filtering.
 
