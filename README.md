@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A passionate cybersecurity student from Poland</h3>
+# Hi, I'm Bart 👋
 
+**AI Software Engineer** building and securing AI agents · Poland 🇵🇱
 
-- 🌱 Keen on **web development and AI (amidst a ton of other things)**
-- 📫 How to reach me: **barteqczech@gmail.com**
-- 👨‍💻 Kinda a nerd, kinda a polyglot
-- ⚡ MMA and gym enjoyer
+I build production AI systems in Python (LLM agents, RAG and the Model Context Protocol) with a focus on making agents secure against prompt injection *by design*, not by filtering.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bartlomiej-czech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartlomiej-czech" height="30" width="40" /></a>
-</p>
+### 🔨 What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+- **ActiveCampaign:** AI agents and an enterprise MCP server. I designed and shipped its OAuth 2.1 authorization layer (Dynamic Client Registration, Authorization Code + PKCE, refresh/revocation), enabling AI clients like Claude and Cursor.
+- **AI agent security:** information flow control, taint tracking and capability-based tool access for LLM agents.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartczech&theme=dark&show_icons=true&locale=en&layout=compact" alt="bartczech" /></p>
+### 📌 Featured work
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartczech&theme=dark&show_icons=true&locale=en" alt="bartczech" /></p>
+- **[camel-prompt-injection](https://github.com/BartCzech/camel-prompt-injection)**: extends Google DeepMind's CaMeL with *scope-guarded branching* for data-dependent control flow, plus a static analyser and an AgentDojo evaluation harness. My reproduction reached 77.5% task utility with 0% attack success.
+- **[Security Architecture for AI Agent Systems](https://zenodo.org/records/22028417)**: my master's thesis (MEng Cybersecurity, AGH), defended with distinction.
+- **[scopeguard-rag](https://github.com/BartCzech/scopeguard-rag)**: comparing access-control strategies for retrieval-augmented generation.
+- **[ai-agent-security-thesis](https://github.com/BartCzech/ai-agent-security-thesis)**: prototype MCP gateway with a policy engine and scoped tokens.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartczech&theme=dark" alt="bartczech" /></p>
+### 🎤 Talks
+
+GenAI Kraków Meetup · BRAVE AI Community · internal engineering talks (60+ engineers)
+
+### 🧰 Stack
+
+Python · FastAPI · LLM agents · RAG · MCP · OAuth 2.1 · AWS · Kubernetes · Docker · Istio
+
+### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/bartlomiej-czech) · barteqczech@gmail.com
+
+<!-- Add when the site is live: · [bartczech.com](https://bartczech.com) -->
+
+---
+
+Polyglot (🇵🇱 🇬🇧 🇩🇪 🇫🇷 🇹🇷) · MMA and gym enjoyer 🥊
